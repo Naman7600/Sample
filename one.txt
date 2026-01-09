@@ -1,1 +1,3 @@
-creating a third file 
+creating a third file .
+
+adding and manipulating the conditions.
